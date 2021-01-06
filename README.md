@@ -1,2 +1,4 @@
-# mbd-natural-language-processing
-Repository for NLP class at IE Master in Business Analytics and Big Data
+# Natural Language Processing
+## IE University, Master's in Business Analytics and Big Data (Apr 2019 - Mar 2020)
+
+Repo with homeworks and slides from lectures.
